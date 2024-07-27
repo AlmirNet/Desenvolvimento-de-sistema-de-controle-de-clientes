@@ -12,3 +12,4 @@ C:\Users\ALMIR\OneDrive\Documentos\FullStack Senai\Desenvolvimento de sistema de
 C:\Users\ALMIR\OneDrive\Documentos\FullStack Senai\Desenvolvimento de sistema de controle de clientes\Atividade\obj\Debug\net8.0\Atividade.pdb
 C:\Users\ALMIR\OneDrive\Documentos\FullStack Senai\Desenvolvimento de sistema de controle de clientes\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
 C:\Users\ALMIR\OneDrive\Documentos\FullStack Senai\Desenvolvimento de sistema de controle de clientes\Atividade\obj\Debug\net8.0\ref\Atividade.dll
+C:\Users\ALMIR\OneDrive\Documentos\FullStack Senai\Desenvolvimento de sistema de controle de clientes\Atividade\obj\Debug\net8.0\Atividade.sourcelink.json
